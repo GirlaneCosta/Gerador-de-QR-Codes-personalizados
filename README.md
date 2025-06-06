@@ -19,6 +19,9 @@ O app estará disponível em: https://gerador-de-qr-code-brasil.netlify.app/
   - Tamanho
 - 🖼️ Pré-visualização em tempo real
 - 📥 Download do QR Code gerado (como imagem)
+- Foto do projeto abaixo ↓
+  ![qrcode1](https://github.com/user-attachments/assets/69bebc83-6e04-45c5-8f97-71e7664cdc10)
+
 
 ## 📦 Instalação
 
